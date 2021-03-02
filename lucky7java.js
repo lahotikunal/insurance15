@@ -153,7 +153,7 @@ button.addEventListener('click',function()
            }
         }
   if(potValue<0)
-  {alert("game over!!! not enough credit left if you want to play again refresh(f5)");}
+  {alert("game over!!! not enough credit left, you have inurnce worth 15, please press next button on bottom right corner");}
   document.getElementById("pot").innerHTML = potValue;
      
 });
