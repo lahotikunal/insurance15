@@ -153,7 +153,7 @@ button.addEventListener('click',function()
            }
         }
   if(potValue<0)
-  {alert("game over!!! not enough credit left, you have inurnce worth 20 Lakhs, please press next button on bottom right corner");}
+  {alert("game over!!! not enough credit left, please press next button on bottom right corner");}
   document.getElementById("pot").innerHTML = potValue;
      
 });
